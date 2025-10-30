@@ -11,7 +11,7 @@ permalink: /research/
 - - -
 **[Distributional Energy Justice and the Inclusive Human Development Agenda in Africa](https://www.researchgate.net/publication/397016488_Distributional_Energy_Justice_and_the_Inclusive_Human_Development_Agenda_in_Africa)**, *forthcoming* World Development, 2025. <br/>
  
-**[Energy consumption, democracy, and income inequality in Africa]([https://doi.org/10.1016/j.eneco.2025.109003](https://link.springer.com/article/10.1007/s00181-025-02744-x)**, Empirical Economics, (joint with Samuel Adams and Emmanuel Y. Gbolonyo), 2025. <br/>
+**[Energy consumption, democracy, and income inequality in Africa](https://link.springer.com/article/10.1007/s00181-025-02744-x)**, Empirical Economics, (joint with Samuel Adams and Emmanuel Y. Gbolonyo), 2025. <br/>
  
 **[Heterogeneous effects of frontier technology adoption on economic growth in Africa](https://doi.org/10.1016/j.strueco.2025.09.004)**, Structural Change and Economic Dynamics, (joint with Emmanuel Y. Gbolonyo, Andrea Vezzulli), 2025. <br/>
 
