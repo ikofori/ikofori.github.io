@@ -7,6 +7,10 @@ permalink: /research/
 <br/> 
 
 
+# Dataset
+- - -
+- [Inclusive Green Growth Dataset for African Countries](https://zenodo.org/records/12529764) <br/>
+
 # PUBLICATIONS 
 - - -
 # 2025
@@ -22,8 +26,6 @@ permalink: /research/
 - [Economic globalisation and Africa's quest for greener and more inclusive growth: The missing link](https://doi.org/10.1016/j.inteco.2024.100509), **International Economics**, (Joint with Andreas Freytag and Simplice A. Asongu), 2024. <br/>
 
 - [Repackaging FDI for inclusive growth: Nullifying effects and policy-relevant thresholds of governance](https://doi.org/10.1016/j.tncr.2024.200056), **Transnational Corporations Review**, (Joint with Simplice A. Asongu), 2024. <br/>
-
-- [The role of energy equity and income inequality in environmental sustainability](https://doi.org/10.1016/j.jclepro.2024.143183), **Journal of Cleaner Production**, (joint with Pamela E. Ofori and Kenneth Annan), 2024. <br/>
 
 # 2023
 - [Foreign direct investment and inclusive green growth in Africa: Energy efficiency contingencies and thresholds](https://doi.org/10.1016/j.eneco.2022.106414), **Energy Economics**, (Joint with  Emmanuel Y. Gbolonyo and Nathanael Ojong), 2023. <br/>
@@ -44,7 +46,7 @@ permalink: /research/
 
 # BOOK CHAPTER 
 - - -
-- Veling, L. & **Ofori, I. K.** (eds). The Sustainable Enterprise: Transforming Business For The Future, OAK TREE PRESS, Cork T12 XY2N, 2024.
+- Veling, L. & **Ofori, I. K.** (eds). The Sustainable Enterprise: Transforming Business For The Future, OAK TREE PRESS, Cork T12 XY2N, 2024. <br/>
 
 - [Inclusive Green Growth in OECD Countries: Insight from the Lasso Regularisation and Inferential Techniques](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003283980-18/inclusive-green-growth-oecd-countries-insight-lasso-regularization-inferential-techniques-andrea-vezzulli-isaac-ofori-pamela-ofori-emmanuel-gbolonyo), **Artificial Intelligence and Engineering Mathematics: Foundations, Techniques, and Applications**, (joint with Andrea Vezzulli, Isaac K. Ofori and Emmanuel Gbolonyo), 2023. <br/>
 
@@ -57,7 +59,13 @@ permalink: /research/
 - - -
 - Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (Joint with Pamela E. Ofori and Nathanael Ojong). <br/>
 
-- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword?](Joint with Louise Veling and John Cullen). <br/>
+- Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu) <br/>
+- 
+- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). <br/>
+
+- [Does Economic Complexity Promote Inclusive Green Growth](https://hdl.handle.net/10419/298785) <br/>
+
+- [Frontier Technology Readiness, Democracy, and Income Inequality in Africa](https://hdl.handle.net/10419/298788) <br/>
 
 - [Effects of Innovation and Economic Freedom on Female Economic Inclusion](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf) (Joint with Isaac K. Ofori and Paolo Castelnovo). <br/>
 
