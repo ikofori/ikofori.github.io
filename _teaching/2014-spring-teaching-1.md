@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include base_path %}
 
-Heading 1
-======
+{% for post in site.teaching reversed %}
+ {% include archive-single.html %}
+{% endfor %}
 
-Heading 2
-======
+**Maynooth Business School, Maynooth University, Ireland (Feb. 2024 – Mar. 2025)**
 
-Heading 3
-======
+- CE6046: Introduction to Sustainable Enterprise
+
+- CE6048: Sustainability Leadership & Transformation 
+
+
+**York University, Keele Campus, Toronto, Canada (Oct. 2021 – Apr. 2022)**
+- SOSC2800: Development in Comparative and Historical Perspective
+
+**School of Economics, University of Cape Coast, Ghana – Demonstrator (Aug. 2018 – Jun. 2019)**
+ - ECO303 (304): Intermediate Statistics I (II)
+
+ - ECO405 (406): Econometrics I (II)
+
+ - ECO817 (818): Theories and Models of Economic Growth and Development
+
+
