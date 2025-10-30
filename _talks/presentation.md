@@ -1,11 +1,15 @@
 ---
-title: "2024"
+title: "2025"
 layout: single
 classes: wide
 permalink: /talks/2014-02-01-talk-2
 ---
 
+- XXVI Conference on International Economics, Jaume I University, Spain.
+- German Development Economics Conference, Goethe University, Frankfurt, Germany.
+- 17th International Conference on Climate Change: Impacts & Responses, Miami, USA.
 
+# 2025
 
 - EMANES Annual Conference, Barcelona, Spain.
 - Health, Environment, Development and Growth Economics (HEDGE) Conference, Pisa, Italy.
