@@ -1,10 +1,13 @@
 ---
-title: 
-layout: single
-classes: wide
-permalink: /research/
+title: "Households’ adaptation in a warming climate. Air conditioning and thermal insulation choices"
+collection: publications
+permalink: /publication/De_Cian_et_al_2019
+date: October 2019
+venue: 'Environmental Science & Policy'
 ---
-<br/> 
+
+(with E. De Cian, T. Randazzo, M. Davide & M. Mistry)
+
 
 
 # <center> PUBLICATIONS </center>
