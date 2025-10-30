@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-0591-1271"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FIsaac-Ofori-2&sa=D&sntz=1&usg=AOvVaw18EhOR0FnDlPeyPHgbGlN5"
+  researchgate     : "https://www.researchgate.net/profile/Isaac-Ofori-2?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57328606100"
 
   # Repositories and software development
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ikofori/"
+  linkedin         : "http://www.linkedin.com/in/ikofori"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
