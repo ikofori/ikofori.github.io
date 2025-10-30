@@ -21,10 +21,6 @@ permalink: /research/
 
 **[Economic globalisation and Africa's quest for greener and more inclusive growth: The missing link](https://doi.org/10.1016/j.inteco.2024.100509)**, International Economics, (joint with Andreas Freytag and Simplice A. Asongu), 2024. <br/>
 
-**[Economic globalisation and Africa's quest for greener and more inclusive growth: The missing link](https://doi.org/10.1016/j.tncr.2024.200056)**, International Economics, (joint with Andreas Freytag and Simplice A. Asongu), 2024. <br/>
-
-**[Economic globalisation and Africa's quest for greener and more inclusive growth: The missing link](https://doi.org/10.1016/j.inteco.2024.100509)**, International Economics, (joint with Andreas Freytag and Simplice A. Asongu), 2024. <br/>
-
 **[Repackaging FDI for inclusive growth: Nullifying effects and policy-relevant thresholds of governance](https://doi.org/10.1016/j.tncr.2024.200056)**, Transnational Corporations Review, (joint with Simplice A. Asongu), 2024. <br/>
 
 **[The role of energy equity and income inequality in environmental sustainability](https://doi.org/10.1016/j.jclepro.2024.143183)**, Journal of Cleaner Production, (joint with Pamela E. Ofori and Kenneth Annan), 2024. <br/>
@@ -53,7 +49,7 @@ permalink: /research/
 
 **[hat really drives economic growth in sub-Saharan Africa? Evidence from the lasso regularization and inferential techniques](https://doi.org/10.1016/j.resglo.2022.100084)**, Journal of the Knowledge Economy, (joint with Camara Obeng and Simplice A. Asongu), 2021. <br/>
 
-**[What drives financial sector development in Africa? Insights from machine learning]([https://doi.org/10.1016/j.tele.2022.101857](https://doi.org/10.1080/08839514.2021.1999597)**, Applied Artificial Intelligence, (joint with Pamela E. Ofori and Christopher Quaidoo), 2021. <br/>
+**[What drives financial sector development in Africa? Insights from machine learning](https://doi.org/10.1080/08839514.2021.1999597)**, Applied Artificial Intelligence, (joint with Pamela E. Ofori and Christopher Quaidoo), 2021. <br/>
 
 **[Addressing the severity and intensity of poverty in Sub-Saharan Africa: how relevant is the ICT and financial development pathway?](https://doi.org/10.1016/j.heliyon.2021.e08156)**,  Heliyon, (joint with Pamela E. Ofori, Isaac Kwesi Ofori, Mark Kojo Armah and Francis Taale,), 2021. <br/>
 
