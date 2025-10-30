@@ -7,12 +7,12 @@ permalink: /research/
 <br/> 
 
 
-# Dataset
-- - -
-- [Inclusive Green Growth Dataset for African Countries](https://zenodo.org/records/12529764) <br/>
-
 # PUBLICATIONS 
 - - -
+
+# Dataset
+- [Inclusive Green Growth Dataset for African Countries](https://zenodo.org/records/12529764) <br/>
+
 # 2025
 - [Distributional Energy Justice and the Inclusive Human Development Agenda in Africa](https://www.researchgate.net/publication/397016488_Distributional_Energy_Justice_and_the_Inclusive_Human_Development_Agenda_in_Africa), *Forthcoming:* **World Development**, 2025. <br/>
  
@@ -63,7 +63,7 @@ permalink: /research/
 - 
 - Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). <br/>
 
-- [Does Economic Complexity Promote Inclusive Green Growth](https://hdl.handle.net/10419/298785) <br/>
+- [Does Economic Complexity Promote Inclusive Green Growth](https://hdl.handle.net/10419/298785) (Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong) <br/>
 
 - [Frontier Technology Readiness, Democracy, and Income Inequality in Africa](https://hdl.handle.net/10419/298788) <br/>
 
