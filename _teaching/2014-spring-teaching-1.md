@@ -5,11 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
 
-{% for post in site.teaching reversed %}
- {% include archive-single.html %}
-{% endfor %}
 
 **Maynooth Business School, Maynooth University, Ireland (Feb. 2024 – Mar. 2025)**
 
