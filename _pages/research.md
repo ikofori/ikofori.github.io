@@ -37,7 +37,7 @@ permalink: /research/
 
 **[Economic globalisation and inclusive green growth in Africa: Contingencies and policy‐relevant thresholds of governance](https://doi.org/10.1002/sd.2403)**, Sustainable Development, (joint with Francesco Figari), 2022. <br/>
 
-**[What drives financial sector development in Africa? Insights from machine learning]([https://doi.org/10.1016/j.tele.2022.101857](https://doi.org/10.1080/08839514.2021.1999597)**, Applied Artificial Intelligence, (joint with Pamela E. Ofori and Christopher Quaidoo), 2022. <br/>
+**[What drives financial sector development in Africa? Insights from machine learning](https://doi.org/10.1080/08839514.2021.1999597)**, Applied Artificial Intelligence, (joint with Pamela E. Ofori and Christopher Quaidoo), 2022. <br/>
 
 **[Towards shared prosperity in Sub-Saharan Africa: How does the effect of economic integration compare to social equity policies?](https://doi.org/10.1111/1467-8268.12614)**, African Development Review, (joint with  William G. Cantah, Benedict Afful Jr and Saddam Hossain), 2022. <br/>
 
