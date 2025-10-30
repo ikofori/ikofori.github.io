@@ -1,4 +1,3 @@
-
 ---
 title: "CONFERENCE PRESENTATIONS / TALKS / WORKSHOPS"
 layout: single
