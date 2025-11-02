@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+i# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : ""
+  linkedin         : "ikofori/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
