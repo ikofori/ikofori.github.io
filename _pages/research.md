@@ -14,7 +14,7 @@ permalink: /research/
 - [Inclusive Green Growth Dataset for African Countries](https://zenodo.org/records/12529764) <br/>
 
 # 2025
-- [Distributional Energy Justice and the Inclusive Human Development Agenda in Africa](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678287), *Forthcoming:* **World Development**, 2025. <br/>
+- [Distributional Energy Justice and the Inclusive Human Development Agenda in Africa](https://doi.org/10.1016/j.worlddev.2025.107223), **World Development**, 2025. <br/>
  
 - [Energy consumption, democracy, and income inequality in Africa](https://link.springer.com/article/10.1007/s00181-025-02744-x), **Empirical Economics**, (Joint with Samuel Adams and Emmanuel Y. Gbolonyo), 2025. <br/>
  
