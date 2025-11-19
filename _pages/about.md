@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my webpage!
+
+
+Hi, welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my page!
+
+
 
 ## Get to Know Me in 30 Seconds
 
