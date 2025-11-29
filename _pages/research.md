@@ -21,7 +21,7 @@ permalink: /research/
 - Heterogeneous effects of frontier technology adoption on economic growth in Africa, *Structural Change and Economic Dynamics*, (Joint with Emmanuel Y. Gbolonyo, Andrea Vezzulli), 2025. [PDF](https://doi.org/10.1016/j.strueco.2025.09.004) <br/>
 
 # 2024
-- Foreign Aid, Infrastructure, and the Inclusive Growth Agenda in Sub-Saharan Africa, **Growth and Change**, (Joint with Nathanael Ojong and Emmanuel Y. Gbolonyo), 2024. [PDF](https://doi.org/10.1111/grow.70004) <br/>
+- Foreign Aid, Infrastructure, and the Inclusive Growth Agenda in Sub-Saharan Africa, *Growth and Change*, (Joint with Nathanael Ojong and Emmanuel Y. Gbolonyo), 2024. [PDF](https://doi.org/10.1111/grow.70004) <br/>
 
 - Economic globalisation and Africa's quest for greener and more inclusive growth: The missing link, *International Economics*, (Joint with Andreas Freytag and Simplice A. Asongu), 2024. [PDF](https://doi.org/10.1016/j.inteco.2024.100509) <br/>
 
