@@ -60,7 +60,7 @@ permalink: /research/
 - Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (Joint with Pamela E. Ofori and Nathanael Ojong). <br/>
 
 - Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu) <br/>
-- 
+  
 - Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). <br/>
 
 - Does Economic Complexity Promote Inclusive Green Growth? (Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong) [PDF](https://hdl.handle.net/10419/298785) <br/>
