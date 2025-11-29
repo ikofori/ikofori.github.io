@@ -11,7 +11,7 @@ permalink: /research/
 - - -
 
 # Dataset
-- Inclusive Green Growth Dataset for African Countries [PDF](https://zenodo.org/records/12529764) <br/>
+- Inclusive Green Growth Dataset for African Countries [LINK TO DATASET](https://zenodo.org/records/12529764) <br/>
 
 # 2025
 - Distributional Energy Justice and the Inclusive Human Development Agenda in Africa, **World Development**, 2025. [PDF](https://doi.org/10.1016/j.worlddev.2025.107223) <br/>
