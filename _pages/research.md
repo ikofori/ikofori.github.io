@@ -46,7 +46,7 @@ permalink: /research/
 
 # BOOK CHAPTER 
 - - -
-- Veling, L. & **Ofori, I. K.** (eds). The Sustainable Enterprise: Transforming Business For The Future, OAK TREE PRESS, Cork T12 XY2N, 2024. <br/>
+- Veling, L. & **Ofori, I. K.** (eds). *The Sustainable Enterprise: Transforming Business For The Future*, OAK TREE PRESS, Cork T12 XY2N, 2024. <br/>
 
 - Inclusive Green Growth in OECD Countries: Insight from the Lasso Regularisation and Inferential Techniques, *Artificial Intelligence and Engineering Mathematics: Foundations, Techniques, and Applications*, (joint with Andrea Vezzulli, Isaac K. Ofori and Emmanuel Gbolonyo), 2023. [PDF](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003283980-18/inclusive-green-growth-oecd-countries-insight-lasso-regularization-inferential-techniques-andrea-vezzulli-isaac-ofori-pamela-ofori-emmanuel-gbolonyo) <br/>
 
@@ -57,22 +57,22 @@ permalink: /research/
 
 # WORKING PAPERS 
 - - -
-- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (Joint with Pamela E. Ofori and Nathanael Ojong) [PDF](https://drive.google.com/file/d/1dJJYiKMk4KwYyge8UGNHwFwkVIyDwoVd/view?usp=drive_link). <br/>
+- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (*Joint with Pamela E. Ofori and Nathanael Ojong*) [PDF](https://drive.google.com/file/d/1dJJYiKMk4KwYyge8UGNHwFwkVIyDwoVd/view?usp=drive_link). <br/>
 
-- Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu) [PDF](https://drive.google.com/file/d/1swD0_jjz9HQQx_cigzbFm9ao-h9Su6z5/view?usp=drive_link) <br/>
+- Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (*Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu*) [PDF](https://drive.google.com/file/d/1swD0_jjz9HQQx_cigzbFm9ao-h9Su6z5/view?usp=drive_link) <br/>
   
-- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). [PDF](https://drive.google.com/file/d/1_y05ShxafXg3mucVArz_o6TcIlItKU8O/view?usp=drive_link) <br/>
+- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (*Joint with Louise Veling and John Cullen*). [PDF](https://drive.google.com/file/d/1_y05ShxafXg3mucVArz_o6TcIlItKU8O/view?usp=drive_link) <br/>
 
-- Does Economic Complexity Promote Inclusive Green Growth? (Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong) [PDF](https://hdl.handle.net/10419/298785) <br/>
+- Does Economic Complexity Promote Inclusive Green Growth? (*Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong*) [PDF](https://hdl.handle.net/10419/298785) <br/>
 
 - Frontier Technology Readiness, Democracy, and Income Inequality in Africa. [PDF](https://hdl.handle.net/10419/298788) <br/>
 
-- Effects of Innovation and Economic Freedom on Female Economic Inclusion (Joint with Isaac K. Ofori and Paolo Castelnovo). [PDF](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf) <br/>
+- Effects of Innovation and Economic Freedom on Female Economic Inclusion (*Joint with Isaac K. Ofori and Paolo Castelnovo*). [PDF](https://www.econstor.eu/bitstream/10419/298786/1/Ofori-Female-Economic-Inclusion.pdf) <br/>
 
 
 # WORK IN PROGRESS
 - - -
 
-- The Impact of Carbon Tax on Ecological Footprint: Global Evidence (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori). <br/>
+- The Impact of Carbon Tax on Ecological Footprint: Global Evidence (*Joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori*). <br/>
 
-- Innovation, Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori).
+- Innovation, Environmental Taxes and Environmental Wellbeing (*Joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori*).
