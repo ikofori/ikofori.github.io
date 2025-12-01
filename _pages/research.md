@@ -57,11 +57,11 @@ permalink: /research/
 
 # WORKING PAPERS 
 - - -
-- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (Joint with Pamela E. Ofori and Nathanael Ojong). <br/>
+- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (Joint with Pamela E. Ofori and Nathanael Ojong) [PDF](https://drive.google.com/file/d/1dJJYiKMk4KwYyge8UGNHwFwkVIyDwoVd/view?usp=drive_link). <br/>
 
-- Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu) <br/>
+- Towards inclusivity: The impact of frontier technology adoption on inclusive growth in Sub-Saharan Africa (Joint with Pamela E. Ofori, Emmanuel Y. Gbolonyo, and Simplice Asongu) [PDF](https://drive.google.com/file/d/1swD0_jjz9HQQx_cigzbFm9ao-h9Su6z5/view?usp=drive_link) <br/>
   
-- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). <br/>
+- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword? (Joint with Louise Veling and John Cullen). [PDF](https://drive.google.com/file/d/1_y05ShxafXg3mucVArz_o6TcIlItKU8O/view?usp=drive_link) <br/>
 
 - Does Economic Complexity Promote Inclusive Green Growth? (Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong) [PDF](https://hdl.handle.net/10419/298785) <br/>
 
@@ -73,6 +73,6 @@ permalink: /research/
 # WORK IN PROGRESS
 - - -
 
-- Innovation, Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori). 
+- The Impact of Carbon Tax on Ecological Footprint: Global Evidence (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori). <br/>
 
-- Carbon Tax and Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori). <br/>
+- Innovation, Environmental Taxes and Environmental Wellbeing (joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori).
