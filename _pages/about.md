@@ -16,7 +16,7 @@ Hi, welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my page!
 
 ## Get to Know Me in 30 Seconds
 
-I am an [Economist](https://ikofori.github.io/) based in Dublin, Ireland. I hold a PhD in Economics [(Methods and Models for Economic Decisions)](https://www.uninsubria.it/formazione/offerta-formativa/methods-and-models-economic-decisions-xli-ciclo) from the [University of Insubria](https://archivio.uninsubria.it/siti-tematici-o-federati/siti-dei-dipartimenti/dipartimento-di-economia-dieco) in Italy. I have a strong research and teaching portfolio in [Development Economics](https://doi.org/10.1016/j.worlddev.2025.107223) and [Applied Econometrics](https://doi.org/10.1016/j.strueco.2025.09.004). 
+I am a [Development Economist](https://ikofori.github.io/) and currently an Assistant Lecturer in the [School of Accounting, Economics, and Finance](https://www.tudublin.ie/explore/faculties-and-schools/business/accounting-economics-and-finance/) of [Technological University Dublin](https://www.tudublin.ie/) in Ireland. I have a strong research and teaching portfolio in [Development Economics](https://doi.org/10.1016/j.worlddev.2025.107223) and [Applied Econometrics](https://doi.org/10.1016/j.strueco.2025.09.004). 
 
 I employ data science, econometrics, and machine learning skills to generate evidence and inform interventions that advance social progress. In particular, I lead research efforts aimed at tracking the progress of countries/territories in [Inclusive Green Growth](https://zenodo.org/records/12529764). 
 
