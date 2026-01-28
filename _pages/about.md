@@ -16,7 +16,7 @@ Hi, welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my page!
 
 ## Get to Know Me in 30 Seconds
 
-I am an Assistant Lecturer in the [School of Accounting, Economics, and Finance](https://www.tudublin.ie/explore/faculties-and-schools/business/accounting-economics-and-finance/) at [Technological University Dublin](https://www.tudublin.ie/), Ireland. I have a strong research and teaching portfolio in [Development Economics](https://doi.org/10.1016/j.worlddev.2025.107223), [International Economics](https://doi.org/10.1016/j.inteco.2024.100509), and [Applied Econometrics](https://doi.org/10.1016/j.strueco.2025.09.004). 
+I am an Assistant Lecturer in the [School of Accounting, Economics, and Finance](https://researchprofiles.tudublin.ie/en/persons/a86f0fa2-e615-4fe1-86ff-d679d9b2a895) at [Technological University Dublin](https://www.tudublin.ie/), Ireland. I have a strong research and teaching portfolio in [Development Economics](https://doi.org/10.1016/j.worlddev.2025.107223), [International Economics](https://doi.org/10.1016/j.inteco.2024.100509), and [Applied Econometrics](https://doi.org/10.1016/j.strueco.2025.09.004). 
 
 I combine data science, econometrics, and machine learning to generate policy-relevant evidence that informs interventions aimed at advancing social progress. A central strand of my work focuses on measuring and tracking countries’ performance in [Inclusive Green Growth](https://zenodo.org/records/12529764). 
 
