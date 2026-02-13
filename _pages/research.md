@@ -14,7 +14,7 @@ permalink: /research/
 - Inclusive Green Growth Dataset for African Countries [Link to the Dataset](https://zenodo.org/records/12529764) <br/>
 
 # 2026
-- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword?, *Ecological Economics*, (Joint with Louise Veling and John Culleng), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6094326) <br/>
+- Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword?, *Ecological Economics*, (Joint with Louise Veling and John Cullen), 2026. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6094326) <br/>
 
 # 2025
 - Distributional Energy Justice and the Inclusive Human Development Agenda in Africa, *World Development*, 2025. [PDF](https://doi.org/10.1016/j.worlddev.2025.107223) <br/>
