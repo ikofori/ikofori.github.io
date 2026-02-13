@@ -8,9 +8,9 @@ author_profile: true
 
 
 **Technological University (TU) Dublin, Ireland (Jan. 2026 – Present)**
-- FNC4005: Game Theory
 - ECON2020: International Trade and Globalisation
 - ECON9103: Introductory Macroeconomics
+- FNC4005: Game Theory
 
 
 **National University of Ireland Maynooth (Feb. 2024 – Mar. 2025)**
