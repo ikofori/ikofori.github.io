@@ -14,6 +14,8 @@ permalink: /research/
 - Inclusive Green Growth Dataset for African Countries [Link to the Dataset](https://zenodo.org/records/12529764) <br/>
 
 # 2026
+- Does Economic Complexity Promote Inclusive Green Growth in Developing Economies? *Journal of International Development* (*Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong*) ([PDF](https://doi.org/10.1002/jid.70096)) <br/>
+
 - Frontier Technology Adoption and Inclusive Green Growth in the EU: A Double-edged Sword?, *Ecological Economics*, (Joint with Louise Veling and John Cullen), 2026. [PDF](https://doi.org/10.1016/j.ecolecon.2026.108949) <br/>
 
 # 2025
@@ -60,8 +62,6 @@ permalink: /research/
 - - -
 
 - Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (*Joint with Pamela E. Ofori and Nathanael Ojong*) [PDF](https://drive.google.com/file/d/1dJJYiKMk4KwYyge8UGNHwFwkVIyDwoVd/view?usp=drive_link). <br/>
-
-- Does Economic Complexity Promote Inclusive Green Growth? (*Joint with Emmanuel Y. Gbolonyo and Nathanael Ojong*) [PDF](https://hdl.handle.net/10419/298785) <br/>
 
 - Frontier Technology Readiness, Democracy, and Income Inequality in Africa. [PDF](https://hdl.handle.net/10419/298788) <br/>
 
