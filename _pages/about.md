@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my page!
+Welcome [(Akwaaba)](https://mfa.gov.gh/index.php/about-ghana/) to my page!
 
 
 
