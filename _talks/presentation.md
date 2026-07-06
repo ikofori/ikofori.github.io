@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: ""
 layout: single
 classes: wide
 permalink: /talks/2014-02-01-talk-2
