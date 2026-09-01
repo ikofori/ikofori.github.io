@@ -61,6 +61,8 @@ permalink: /research/
 # WORKING PAPERS 
 - - -
 
+- When Does Green Finance Promote Inclusive Green Growth? New Evidence from Developing Countries [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7333018). <br/>
+
 - Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa, (*Joint with Pamela E. Ofori and Nathanael Ojong*) [PDF](https://drive.google.com/file/d/1dJJYiKMk4KwYyge8UGNHwFwkVIyDwoVd/view?usp=drive_link). <br/>
 
 - Frontier Technology Readiness, Democracy, and Income Inequality in Africa. [PDF](https://hdl.handle.net/10419/298788) <br/>
@@ -70,7 +72,5 @@ permalink: /research/
 
 # WORK IN PROGRESS
 - - -
-
-- The Impact of Carbon Tax on Ecological Footprint: Global Evidence (*Joint with Andrea Vezzulli, Paolo Castelnovo, Pamela E. Ofori*). <br/>
 
 - Carbon Pricing and Inclusive Green Growth (*Joint with Pamela E. Ofori*).
