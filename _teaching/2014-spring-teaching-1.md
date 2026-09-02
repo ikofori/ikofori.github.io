@@ -8,8 +8,8 @@ author_profile: true
 
 
 **Technological University (TU) Dublin, Ireland (Jan. 2026 – Present)**
-- ECON2020: International Trade and Globalisation
-- ECON9103: Introductory Macroeconomics
+- ECON2020: International Trade
+- ECON2017: Microeconomics
 - FNCE4005: Game Theory
 
 
