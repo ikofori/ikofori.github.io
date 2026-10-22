@@ -5,7 +5,11 @@ classes: wide
 permalink: /talks/2014-02-01-talk-2
 ---
 
+# 2027
+- Econburgh 2027 XVIII EconWorld Conference *[Invited]*, St Leonard's Hall, University of Edinburgh, Edinburgh, Scotland.
+   
 # 2026
+- EMANES Annual Conference 2026 (Green Industrialization in the EU, Mediterranean, and Africa: Pathways to a Just and Resilient Transition) *[Invited]*, Barcelona, Spain
 - Pathways to Future Regional Development Workshop, Bolzano/Bozen, Italy.
 - Irish Economic Association (IEA) Annual Conference 2026, Thurles, Ireland.
   
